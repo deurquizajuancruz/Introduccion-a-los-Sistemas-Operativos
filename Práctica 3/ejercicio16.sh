@@ -2,6 +2,7 @@
 << Comentario
 Debe ejecutarse con root porque tiene que acceder a todas las carpetas del sistema
 De todas formas ni el root va a poder acceder a todas
+No lo pude hacer ni con un ayudante => no anda
 Comentario
 echo ""> reportes.txt
 if [ $# -eq 1 ];
